@@ -1,0 +1,30 @@
+html{
+	background-color: #C0C0C0;
+
+	height:100%;/*makes the html the height of your browser*/;
+}
+body{
+
+	background-color:#D8D8D8;
+	width: 70%;
+	min-height: 75%; 
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+nav{
+
+	background-color:#FF6666;
+	padding: 440px
+	border-radius:90px;
+	width: 90%
+	margin: 0 auto;
+	text-align: left; 
+
+}
+
+a{}
+h1{}
+p{}
+img{}
+footer{}
